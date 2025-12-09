@@ -14,7 +14,7 @@ You will find:
 
 A dedicated README describing preprocessing steps, normalization, statistical testing, and figure generation.
 
-Sequentially numbered R scripts (e.g., 01_import.R, 02_QC.R, etc.) that reflect the recommended order of execution.
+Sequentially numbered R scripts (e.g., 01_preprocessing.R, 02_QC.R, etc.) that reflect the recommended order of execution.
 
 Output files and intermediate objects used to produce the proteomics figures included in the manuscript.
 
@@ -42,4 +42,5 @@ Package requirements are listed within each folder.
 
 Reproducibility and Contact
 
-This repository is designed to be fully reproducible. If you encounter issues or have questions regarding the analysis steps, figures, or data organization, please reach out to the study authors.
+This repository is designed to be fully reproducible. If you encounter issues or have questions regarding the analysis steps, figures, or data organization, please reach out to Paul Parodi at pparodi@umd.edu
+
