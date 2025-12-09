@@ -81,3 +81,25 @@ Gene-level result tables
 Gene ontology enrichment
 
 Run the scripts sequentially based on their numeric prefixes.
+
+
+Step 3 — Nanostring Visualization
+
+Folder: Nanostring_visualization/R Code
+Generates all manuscript-ready figures, including:
+
+Boxplots for significant genes
+
+Ontology chord plots
+
+Volcano plots
+
+Outputs for each step will appear in the corresponding Output folder.
+
+Notes
+
+All scripts were developed using R 4.5.0.
+
+Required package lists are provided at the top of each script.
+
+Outputs are automatically versioned and timestamped where relevant.
